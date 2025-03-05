@@ -25,12 +25,17 @@ web application.
 
 ### How?
 
-The project combines **Nextjs** with **[Electron](https://medium.com/@aleksej.gudkov/how-to-build-an-electron-app-with-next-js-a-complete-guide-6f6ddf0111b2#:~:text=Combining%20Electron%20with%20Next.,and%20React%20for%20the%20UI.)** to create a cross-platform desktop
+The project combines **Nextjs** with **[Electron.js](https://www.electronjs.org/)** to create a cross-platform desktop
 application with **Web-technologies**.
 
 
-# Let's get started!!
+## Where do yoy find out more?
 
+The **[document](/docs/Documentation/Key%20Features/)** serves as a blueprint for the development of the application, ensuring alignment between stakeholders and developers.
+
+The **[Workflow](/docs/User%20Workflow/Login/Sign-In-Form.md)** depicts a real user workflow for the targeted users.
+
+# Let's get started!! 
 
 
 
