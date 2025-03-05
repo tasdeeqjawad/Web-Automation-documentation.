@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## Data Extraction
 
-![Alt text](../../img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(2).jpeg)
+![Alt text](/img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(2).jpeg)
 
 This  functionality allows user to **automate data extraction from Excel**. 
 
@@ -12,7 +12,7 @@ This  functionality allows user to **automate data extraction from Excel**.
     to the Application form field to ensure proper allocation of data during 
     all extractions going forward.
 
-    ![Alt text](../../img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(3).jpeg)
+    ![Alt text](/img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(3).jpeg)
 
 2. The user inputs an Excel file from local device which is the processed for
     Text extraction.

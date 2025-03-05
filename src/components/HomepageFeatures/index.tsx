@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Web Automation is designed to be easy to use everyday professionasl
+        Web Automation is designed to be easy to use everyday professionals
         to ease up your tedious tasks.
       </>
     ),
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Web Automation is built on top of React and Next.js, which means you can use
-        all the features of these libraries, and sinces it's wrapped with Electron, you
+        all the features of these libraries, and since it's wrapped with Electron, you
         can run it on your desktop at ease.
       </>
     ),

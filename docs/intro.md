@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome to Web Automation
 
-Where you data entry is made **A piece of cake**.
+### Where your data entry is made **A piece of cake**.
 
 
 
@@ -31,7 +31,7 @@ application with **Web-technologies**.
 
 ## Where do yoy find out more?
 
-The **[document](/docs/Documentation/Key%20Features/)** serves as a blueprint for the development of the application, ensuring alignment between stakeholders and developers.
+The **[document](/docs/Documentation/Key%20Features/features.md)** serves as a blueprint for the development of the application, ensuring alignment between stakeholders and developers.
 
 The **[Workflow](/docs/User%20Workflow/Login/Sign-In-Form.md)** depicts a real user workflow for the targeted users.
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-![Components](../../User%20Workflow/img/use-case-3e67c7a0c76e9118c4936d74fe8cbc52.png)
+![Components](/img/use-case-3e67c7a0c76e9118c4936d74fe8cbc52.png)
 
     Highlights the components of the system and their interactions.
 

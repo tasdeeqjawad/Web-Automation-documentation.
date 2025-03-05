@@ -4,7 +4,7 @@ sidebar_position: 2
 
 ## Data Entry
 
-![Alt text](../../img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(2).jpeg)
+![Alt text](/img/WhatsApp%20Image%202025-03-04%20at%2010.04.38%20AM%20(2).jpeg)
 
 This  functionality allows user to **automate data entry to Excel**. 
 
