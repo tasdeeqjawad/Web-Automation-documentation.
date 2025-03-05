@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Web Automation',
+  tagline: 'Work Less, Work Fast',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -95,7 +95,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Doc',
               to: '/docs/intro',
             },
           ],
@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Web Automation, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

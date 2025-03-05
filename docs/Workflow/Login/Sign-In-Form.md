@@ -7,5 +7,5 @@ sidebar_position: 1
 
 As seen from the above snippet of the login page, this a traditional user friendly 
 login page using an Email and Password which is then authenticated behind the scenes for Successful 
-Login unless you **Forget you password**, then find out **here**, if not then let's get going to **Dashboard** 
+Login unless you **Forget your password**, then find out **[here](/docs/Workflow/Login/Forget-Password.md)**, if not then let's get going to **[Dashboard](/docs/Workflow/Dashboard/Intro.md)**. 
 
