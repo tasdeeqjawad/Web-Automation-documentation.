@@ -29,7 +29,7 @@ The project combines **Nextjs** with **[Electron.js](https://www.electronjs.org/
 application with **Web-technologies**.
 
 
-## Where do yoy find out more?
+## Where do you find out more?
 
 The **[document](/docs/Documentation/Key%20Features/features.md)** serves as a blueprint for the development of the application, ensuring alignment between stakeholders and developers.
 
